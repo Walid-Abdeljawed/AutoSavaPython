@@ -10,7 +10,8 @@ Plugin pour enregistrement automatique des fichiers Thonny
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 ## Demo
-<iframe src="https://giphy.com/embed/idgRwUNkuxe0RdP4F1" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/idgRwUNkuxe0RdP4F1">via GIPHY</a></p>
+https://giphy.com/embed/idgRwUNkuxe0RdP4F
+
 
 ## Installation 
 Télécharger le fichier 
